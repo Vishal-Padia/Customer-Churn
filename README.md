@@ -1,1 +1,3 @@
 # Customer-Churn
+
+### This project is designed to help you learn how to use data to predict customer churn and take proactive steps to retain customers. By using machine learning algorithms such as logistic regression or decision trees, you can build a predictive model that identifies which customers are most likely to cancel their subscription. With this information, you can take targeted actions to prevent churn and retain customers.
